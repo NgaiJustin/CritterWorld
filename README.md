@@ -8,6 +8,7 @@ CritterWorld is a project that simulates a world of small agents—critters—wi
 
 Each critter behaves according to a “Critter Program” unique to each critter. This program is written in the “Critter Language”—a context-free grammar—defined by the course staff which can be found in the detailed project spec below. As part of the project, I wrote the parser and interpreter for this critter language. New critters inherit the critter program from their parents with a slight chance of mutation—implemented using fault injection in the abstract syntax trees constructed by the interpreter of the critter language. The GUI was designed with UX principles in mind and built in JavaFX. 
 
+![alt text](/Imgs/0.png)
 ![alt text](/Imgs/1.png)
 ![alt text](/Imgs/2.png)
 ![alt text](/Imgs/3.png)
